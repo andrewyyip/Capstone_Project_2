@@ -5,4 +5,6 @@ Pneumonia is an infection of the lungs that affects millions of people a year as
 We will be using data sourced from:
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
-We train a neural network on the image data set in order to predict whether or not pneumonia is present in a chest x-ray image.
+The images are organized into training, validation, and testing sets.
+
+We train a neural network on the image data in order to predict whether or not pneumonia is present in a chest x-ray image.  We will also take a closer look at what our model is doing when it looks at our images.
