@@ -7,4 +7,4 @@ https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 The images are organized into training, validation, and testing sets.
 
-We train a neural network on the image data in order to predict whether or not pneumonia is present in a chest x-ray image.  We will also take a closer look at what our model is doing when it looks at our images.
+We train a neural network on the image data in order to predict whether or not pneumonia is present in a chest x-ray image.  We will also take a closer look at what our model is doing when it looks at our images in order to interpret the results.
